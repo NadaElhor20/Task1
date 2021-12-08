@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "shurooq", "degres": ["10,20,30"] },
+  { "id": 2, "name": "Nada", "degres": ["10,10,50"] },
+  { "id": 3, "name": "Heba", "degres": ["10,10,40"] },
+  { "id": 4, "name": "Maha", "degres": ["10,20,40"] }
+]
